@@ -1,0 +1,31 @@
+{
+    "users": [
+        {
+            "id": "0",
+            "name": "Ivan",
+            "age": "30"
+        },
+        {
+            "id": "4",
+            "name": "Sergey",
+            "age": "20"
+        }
+    ],
+    "comments": [
+        {
+            "id": "0",
+            "userId": "0",
+            "text": "Lorem ipsum dolor"
+        },
+        {
+            "id": "1",
+            "userId": "4",
+            "text": "Lorem ipsum dolor"
+        },
+        {
+            "id": "2",
+            "userId": "4",
+            "text": "Lorem ipsum dolor amet"
+        }
+    ]
+}
